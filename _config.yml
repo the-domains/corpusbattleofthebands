@@ -1,7 +1,7 @@
 name: corpusbattleofthebands
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.32852
+typography_spectrum: 0.42397
 title: Corpus Battle of the Bands
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#ffffff'
     - '#56abc8'
     - '#b6b4b5'
-  brandStrength: 0.8125
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.6843842705711722
   rhythmicContrast: 0.27395379403606057
