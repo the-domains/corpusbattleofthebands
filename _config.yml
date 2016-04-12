@@ -1,0 +1,28 @@
+name: corpusbattleofthebands
+favicon: null
+layout_spectrum: 0.3457872464787215
+typography_spectrum: 0.49455244978889823
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6036155098117888
+  lightness: 0.17346982494927943
+  saturation: 0.6843842705711722
+  rhythmicContrast: 0.27395379403606057
+purpose: []
